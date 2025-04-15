@@ -28,6 +28,6 @@ The YouTube Clone app is fully responsive and works flawlessly across desktops, 
 
 ## 🔍 Preview
 
-![](youtube_clone.gif)
+![YouTube Clone GIF](./public/youtube_clone.gif)
 
-=======
+
