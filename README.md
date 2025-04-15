@@ -23,3 +23,6 @@ This project is a simple **YouTube Clone** application built with **React**. Use
 ## 📱 Responsive Design
 The YouTube Clone app is fully responsive and works flawlessly across desktops, tablets, and mobile devices.
 
+## 🔍 Preview
+
+![](udeming.gif)
