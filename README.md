@@ -1,4 +1,4 @@
-# 📺 YouTube Clone
+## Youtube Clone
 
 This project is a simple **YouTube Clone** application built with **React**. Users can watch videos, explore videos by category, and browse trending content. The app is designed to offer an experience similar to the YouTube interface.
 
@@ -30,3 +30,4 @@ The YouTube Clone app is fully responsive and works flawlessly across desktops, 
 
 ![](youtube_clone.gif)
 
+=======
